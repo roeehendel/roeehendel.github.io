@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://roeehendel.github.io/al-folio/sitemap.xml
+Sitemap: https://roeehendel.github.io/sitemap.xml
