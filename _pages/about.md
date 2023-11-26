@@ -16,8 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a computer science graduate student (M.Sc.) at Tel Aviv University, focusing on machine learning and NLP. I have 3
-years of practical R&D experience in deep learning and data science. Prior to that, I graduated from the elite academic and
-leadership program Talpiot.
-With my skills and interests, I am excited to contribute to the discovery of elegant answers to the most important questions
-in science and to be a part of building groundbreaking technologies.
+I am a recent M.Sc. graduate in Computer Science from Tel Aviv University, where I specialized in machine learning and NLP. Currently, at AI21 Labs, I am an Algorithm Developer, primarily engaged in researching and developing innovative NLP products. I bring over 3 years of R&D experience in deep learning, computer vision, and data science to my role. I completed my bachelor's degree as part of my participation in the prestigious Talpiot program, which significantly enhanced my leadership and technical skills. My dedication to AI drives me to solve complex challenges and contribute to the advancement of this dynamic field.
