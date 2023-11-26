@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Deep Learning Researcher (graduate student)
+subtitle: Algorithm Developer at AI21 Labs
 
 profile:
   align: right
